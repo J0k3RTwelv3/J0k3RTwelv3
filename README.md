@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<script>alert(1);</script>
+
 <!--
 **J0k3RTwelv3/J0k3RTwelv3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
